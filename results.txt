@@ -1,0 +1,11 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Name the author of 'Pride and Prejudice'.Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Name the author of 'Pride and Prejudice'.
+Correct response:
+>> Jane Austen.
+Model response:
+>> The author of 'Pride and Prejudice' is Robert Frost.-------------------------------------
