@@ -1,0 +1,125 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Rewrite the sentence using a simile.
+
+### Input:
+The car is very fast.
+Correct response:
+>> The car is as fast as lightning.
+Model response:
+>> ### Output:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car is very fast.
+
+### Error:
+
+The car-------------------------------------Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of cloud is typically associated with thunderstorms?
+Correct response:
+>> The type of cloud typically associated with thunderstorms is cumulonimbus.
+Model response:
+>> Thunderstorms are the most common type of thunderstorm. They are usually caused by lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.
+
+Thunder-------------------------------------Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Name the author of 'Pride and Prejudice'.
+Correct response:
+>> Jane Austen.
+Model response:
+>> ### Description:
+
+The author of 'Pride and Prejudice' is a young man who has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He-------------------------------------

@@ -1,11 +1,24 @@
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
-Name the author of 'Pride and Prejudice'.Below is an instruction that describes a task. Write a response that appropriately completes the request.
+Suggest formal synonym.
+
+### Input:
+big
+Correct response:
+>> 
+Model response:
+>> , big, big
+
+
+big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big, big,
+-------------------------------------
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
-Name the author of 'Pride and Prejudice'.
+Suggest formal synonym for "big.".
 Correct response:
->> Jane Austen.
+>> 
 Model response:
->> The author of 'Pride and Prejudice' is Robert Frost.-------------------------------------
+>> The formal synonym for "big" is "quintessential."
+-------------------------------------
